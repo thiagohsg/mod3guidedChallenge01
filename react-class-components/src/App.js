@@ -26,7 +26,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>
-          React e <em>Class Components.</em>
+          React with <em>Class Components</em>
         </h1>
 
         <button onClick={this.handleClick}>Clique aqui</button>
